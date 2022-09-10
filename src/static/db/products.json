@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/01.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 222,
+    "oldPrice": 225,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 4
+  },
+  {
+    "id": 2,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/02.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 148,
+    "oldPrice": 151,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  },
+  {
+    "id": 3,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/03.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 222,
+    "oldPrice": 225,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 5
+  },
+  {
+    "id": 4,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/04.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 250,
+    "oldPrice": 253,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  },
+  {
+    "id": 5,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/05.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 26,
+    "oldPrice": 29,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 1
+  },
+  {
+    "id": 6,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/06.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 128,
+    "oldPrice": 131,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 5
+  },
+  {
+    "id": 7,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/07.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 32,
+    "oldPrice": 35,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  },
+  {
+    "id": 8,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/08.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 186,
+    "oldPrice": 189,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  },
+  {
+    "id": 9,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/09.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 207,
+    "oldPrice": 210,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 1
+  },
+  {
+    "id": 10,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/10.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 238,
+    "oldPrice": 241,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  },
+  {
+    "id": 11,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/11.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 249,
+    "oldPrice": 252,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  },
+  {
+    "id": 12,
+    "name": "Web development",
+    "Department": "English Department",
+    "img": "/static/results/12.png",
+    "colors": ["#23A6F0", "#23856D", "#E77C40", "#23856D"],
+    "price": 99,
+    "oldPrice": 102,
+    "description": "Met minim Mollie non desert Alamo est sit cliquey dolor \ndo met sent. RELIT official consequent door ENIM RELIT Mollie. \nExcitation venial consequent sent nostrum met.",
+    "rate": 3
+  }
+]

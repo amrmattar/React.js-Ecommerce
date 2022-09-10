@@ -1,0 +1,35 @@
+.cu-pointer {
+  cursor: pointer;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.opacity-hover {
+  opacity: 0.8;
+  transition: 0.2s;
+}
+
+.opacity-hover:hover {
+  opacity: 1;
+}
+
+.w-fit {
+  width: fit-content;
+}
+
+.hide-box-shadow:focus {
+  box-shadow: none;
+}
+
+.bg-white {
+  background-color: #fff;
+}

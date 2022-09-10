@@ -1,0 +1,7 @@
+.categoryCard {
+  background: rgba(33, 33, 33, 0.25);
+  margin: auto;
+  width: 100%;
+  min-height: 200px;
+  max-width: 400px;
+}
